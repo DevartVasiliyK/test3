@@ -5,7 +5,8 @@
   [col3] [varchar](50) NULL,
   [col4] [varchar](50) NULL,
   [col5] [varchar](50) NULL,
-  [col6] [varchar](50) NULL
+  [col6] [varchar](50) NULL,
+  [col 7] [varchar](50) NULL
 )
 ON [PRIMARY]
 GO
