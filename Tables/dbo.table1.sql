@@ -1,13 +1,13 @@
 ﻿CREATE TABLE [dbo].[table1] (
   [id] [int] NULL,
-  [col1] [varchar](50) NULL,
-  [col2] [varchar](50) NULL,
-  [col3] [varchar](50) NULL,
-  [col4] [varchar](50) NULL,
-  [col5] [varchar](50) NULL,
-  [col6] [varchar](50) NULL,
-  [col7] [varchar](50) NULL,
-  [col8] [varchar](50) NULL
+  [col12] [varchar](50) NULL,
+  [col22] [varchar](50) NULL,
+  [col32] [varchar](50) NULL,
+  [col42] [varchar](50) NULL,
+  [col52] [varchar](50) NULL,
+  [col62] [varchar](50) NULL,
+  [col72] [varchar](50) NULL,
+  [col82] [varchar](50) NULL
 )
 ON [PRIMARY]
 GO
